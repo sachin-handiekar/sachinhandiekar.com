@@ -2,7 +2,7 @@
 template: post
 title: Conditionally ignoring tests in JUnit
 slug: /2015/09/conditionally-ignoring-tests-in-junit/
-draft: true
+draft: false
 date: 2015-09-23T20:08:17.419Z
 description: A tutorial showing ignoring test using a custom condition - jUnit
 category: jUnit
