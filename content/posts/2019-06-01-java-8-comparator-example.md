@@ -1,6 +1,6 @@
 ---
 template: post
-title: 'Java 8 :: Comparator Example'
+title: Java 8 - Comparator Example
 slug: /2019/05/java-8-comparator-example/
 draft: false
 date: 2019-06-01T20:00:58.823Z
