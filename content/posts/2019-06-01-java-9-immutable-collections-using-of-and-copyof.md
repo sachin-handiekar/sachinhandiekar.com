@@ -2,7 +2,7 @@
 template: post
 title: 'Java 9 : Immutable Collections using of() and copyOf()'
 slug: /2019/05/java-9-immutable-collections-using-of-and-copyof/
-draft: true
+draft: false
 date: 2019-06-01T19:57:59.907Z
 description: >-
   A tutorial showing the use of() and copyOf() in Java 9 to create Immutable
