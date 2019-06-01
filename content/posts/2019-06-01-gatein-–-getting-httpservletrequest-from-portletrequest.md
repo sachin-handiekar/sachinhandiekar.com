@@ -2,7 +2,7 @@
 template: post
 title: GateIn – Getting HttpServletRequest from PortletRequest
 slug: /2015/03/gatein-getting-httpservletrequest-from-portletrequest/
-draft: true
+draft: false
 date: 2015-03-10T21:18:32.106Z
 description: A code snippet showing getting HttpServletRequest from PortletRequest
 category: jBoss Portal
