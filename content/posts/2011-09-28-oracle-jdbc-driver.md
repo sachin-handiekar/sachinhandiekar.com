@@ -1,7 +1,7 @@
 ---
 title: Oracle JDBC Driver
 slug: oracle-jdbc-driver
-draft: true
+draft: false
 date: 2011-09-28T18:54:22.897Z
 description: A code snippet for the Oracle JDBC driver
 category: JDBC
