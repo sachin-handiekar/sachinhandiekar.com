@@ -2,7 +2,7 @@
 template: post
 title: Building a C/C++ project on Travis CI
 slug: /2015/09/building-a-cc-project-on-travis-ci/
-draft: true
+draft: false
 date: 2015-09-02T20:02:57.718Z
 description: A quick tutorial showing how to build C/C++ project on Travis CI
 category: C++
