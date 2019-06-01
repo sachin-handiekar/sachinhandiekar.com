@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Sachin Handiekar',
-    photo: '/photo.jpg',
+    photo: 'https://avatars0.githubusercontent.com/u/279669?s=460&v=4',
     bio: 'A blog about my daily tech ramblings...',
     contacts: {
       email: '#',
