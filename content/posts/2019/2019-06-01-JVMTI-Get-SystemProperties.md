@@ -1,7 +1,7 @@
 ---
 template: post
 title: JVMTI – Get System Properties
-slug: jvmti-get-system-properties
+slug: /2019/06/jvmti-get-system-properties
 draft: false
 date: 2019-06-01T19:03:02.097Z
 description: A sample code snippet showing JVMTI - GetSystemProperty
