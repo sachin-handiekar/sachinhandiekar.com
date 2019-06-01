@@ -2,7 +2,7 @@
 template: post
 title: Enable Access Logs in jBoss Portal / EAP 6
 slug: /2015/09/enable-access-logs-in-jboss-portal-eap-6/
-draft: true
+draft: false
 date: 2015-09-30T20:05:34.630Z
 description: A tutorial showing how to enable access log in jBoss Portal/EAP 6
 category: jBoss Portal
