@@ -3,7 +3,7 @@ template: post
 title: Change logging level using CLI command in JBoss EAP 6 / jBoss Portal 6.1
 slug: >-
   /2015/08/change-logging-level-using-cli-command-in-jboss-eap-6-jboss-portal-6-1/
-draft: true
+draft: false
 date: 2015-08-12T20:08:47.708Z
 description: >-
   A tutorial showing changing logging level using CLI command in jBoss EAP /
