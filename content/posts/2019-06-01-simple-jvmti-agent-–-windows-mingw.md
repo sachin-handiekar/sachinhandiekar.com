@@ -2,7 +2,7 @@
 template: post
 title: Simple JVMTI Agent – Windows / MinGW
 slug: /2015/09/simple-jvmti-agent-windows-mingw/
-draft: true
+draft: false
 date: 2015-09-30T20:03:58.027Z
 description: A tutorial showing building a simple JVMTI agent using MinGW
 category: JVMTI
