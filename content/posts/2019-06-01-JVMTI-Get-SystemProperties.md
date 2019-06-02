@@ -12,7 +12,7 @@ tags:
 In this post we will see how we can use the JVMTI GetSystemProperties to get a list of system properties.
 
 
-```
+```cpp{numberLines: true}
 #include "jvmti.h"
 #include <iostream>
 
@@ -48,7 +48,7 @@ JNIEXPORT jint JNICALL Agent_OnLoad(JavaVM *jvm, char *options, void *reserved) 
 
 CMake
 
-```
+```{numberLines: true}
 cmake_minimum_required(VERSION 3.13)
 project(JVMTIGetSystemProperties)
 
