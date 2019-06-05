@@ -1,17 +1,21 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://sachinhandiekar.com',
   title: 'Sachin Handiekar',
   subtitle: 'A blog about my daily tech ramblings...',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  disqusShortname: 'sachinhandiekar',
+  postsPerPage: 5,
+  googleAnalyticsId: 'UA-27934595-1',
   menu: [
     {
       label: 'Articles',
       path: '/'
+    },
+    {
+      label: 'Projects',
+      path: '/pages/projects'
     },
     {
       label: 'About me',
@@ -23,12 +27,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'A blog about my daily tech ramblings...',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      twitter: 'https://twitter.com/sachinhandiekar',
+      github: 'https://github.com/sachin-handiekar',
+      linkedin: 'https://uk.linkedin.com/in/sachinhandiekar'
     }
   }
 };
