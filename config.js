@@ -27,7 +27,6 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'A blog about my daily tech ramblings...',
     contacts: {
-      email: 'sachin.handiekar(@)gmail(dot)com',
       twitter: 'https://twitter.com/sachinhandiekar',
       github: 'https://github.com/sachin-handiekar'
     }
