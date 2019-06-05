@@ -28,8 +28,7 @@ module.exports = {
     bio: 'A blog about my daily tech ramblings...',
     contacts: {
       twitter: 'https://twitter.com/sachinhandiekar',
-      github: 'https://github.com/sachin-handiekar',
-      linkedin: 'https://uk.linkedin.com/in/sachinhandiekar'
+      github: 'https://github.com/sachin-handiekar'
     }
   }
 };
