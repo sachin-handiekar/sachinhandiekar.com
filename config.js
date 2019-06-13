@@ -27,8 +27,8 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'A blog about my daily tech ramblings...',
     contacts: {
-      twitter: 'https://twitter.com/sachinhandiekar',
-      github: 'https://github.com/sachin-handiekar'
+      twitter: 'sachinhandiekar',
+      github: 'sachin-handiekar'
     }
   }
 };

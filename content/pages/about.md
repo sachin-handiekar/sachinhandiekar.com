@@ -6,8 +6,8 @@ template: "page"
 Yet another Software Developer...
 
 
-More details - 
+Links - 
 
-Linkedin - 
+Linkedin - https://www.linkedin.com/in/sachinhandiekar/
 
-Github - 
+Github - https://github.com/sachin-handiekar
