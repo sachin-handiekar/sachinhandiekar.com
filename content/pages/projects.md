@@ -4,8 +4,5 @@ title: Projects
 slug: /pages/projects
 draft: false
 ---
-
-
-1. JVMConfig - A JVM Options Configuration tool
-
-
+* [JVMConfig](http://jvmconfig.in) - A JVM Options Configuration tool
+* Spring Social Projects
