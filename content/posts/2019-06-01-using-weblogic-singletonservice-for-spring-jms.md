@@ -16,6 +16,7 @@ tags:
 
 Initializing the Spring context inside the SingletonService entry point.
 
+```
 import java.util.Date;
  
 import javax.sql.DataSource;
@@ -46,5 +47,5 @@ public class SingletonServiceEntryPoint implements SingletonService {
  
     }
 }
-
+```
 Sample Application  - https://github.com/sachin-handiekar/weblogic-singleton-service

@@ -8,6 +8,6 @@ Yet another Software Developer...
 
 Links - 
 
-Linkedin - https://www.linkedin.com/in/sachinhandiekar/
+* Linkedin - https://www.linkedin.com/in/sachinhandiekar/
 
-Github - https://github.com/sachin-handiekar
+* Github - https://github.com/sachin-handiekar

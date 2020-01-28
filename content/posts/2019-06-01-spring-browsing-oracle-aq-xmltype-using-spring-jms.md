@@ -11,13 +11,16 @@ tags:
 ---
 A tutorial showing how to browse Oracle AQ (XMLType) using Spring JMS - 
 
+```
 <beans ...>
  <bean id="jmsTemplate" class="org.springframework.jms.core.JmsTemplate">
   <property name="connectionFactory" ref="oracleAqConnFactory" />
   <property name="defaultDestination" ref="destination" />
  </bean>
 </beans>
-view rawbeans.xml hosted with ❤ by GitHub
+```
+
+```
 package com.sachinhandiekar.oracle.aq;
  
 import java.util.Enumeration;
@@ -82,3 +85,4 @@ public class OracleAQQueueBrowser {
   this.jmsTemplate = jmsTemplate;
  }
 }
+```
