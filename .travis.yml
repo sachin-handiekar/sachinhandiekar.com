@@ -6,7 +6,6 @@ install:
 script:
   - yarn install
   - yarn flow-typed
-  - yarn lint
   - yarn test:coverage --runInBand --no-cache
   - yarn test --runInBand --no-cache
   - codecov
